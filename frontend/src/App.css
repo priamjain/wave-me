@@ -3,4 +3,8 @@
   background-color: #282c34;
   min-height: 100vh;
   color: #ffffff;
+  padding: 50px 0;
+}
+.header {
+  margin-bottom: 30px;
 }
